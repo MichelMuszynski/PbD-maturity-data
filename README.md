@@ -11,7 +11,7 @@ Datasets describing collected privacy-by-design factors from two multivocal lite
 
 ### License
 
-Datasets (c) by Michel Muszynski
+Copyright (c) 2022 Michel Muszynski
 
 This work is licensed under a
 Creative Commons Attribution 4.0 International License.
