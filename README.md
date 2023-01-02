@@ -7,7 +7,7 @@ Datasets describing collected privacy-by-design factors from two multivocal lite
 
 - [`data/MLR1`](data/MLR1): Contains the final dataset of consolidated PbD factors resulting from a multivocal literature review that compares existing maturity models in the privacy and data governance domains.
 - [`data/MLR2`](data/MLR2): Contains the final dataset of consolidated PbD factors resulting from a multivocal literature review that contains works describing PbD activities, best-practices, capabilities, etc.
-- [`data/model factor selection`](data/model%20factor%20selection): Contains all the PbD factors deemed relevant and denotes which factors were selected to incorporate in the maturity model.
+- [`data/model factor selection`](data/model&#32;factor&#32;selection): Contains all the PbD factors deemed relevant and denotes which factors were selected to incorporate in the maturity model.
 
 ### License
 
