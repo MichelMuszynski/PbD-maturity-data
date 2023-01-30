@@ -13,7 +13,7 @@ Datasets describing collection and processing of privacy-by-design factors inclu
 
 ### License
 
-Copyright (c) 2022 Michel Muszynski
+Copyright (c) 2022-2023 Michel Muszynski
 
 This work is licensed under a
 Creative Commons Attribution 4.0 International License.
