@@ -1,7 +1,7 @@
 # Privacy-by-design maturity data
 Datasets describing collection and processing of privacy-by-design factors including: collected privacy-by-design factors from two multivocal literature reviews conducted in the summer of 2022, as well as the dataset of factors used in the creation of a privacy-by-design maturity model.
 
-Research data can be found here: [github.com/MichelMuszynski/PbD-Maturity-Tool](https://github.com/MichelMuszynski/PbD-Maturity-Tool)\
+The assessment tool can be found here: [github.com/MichelMuszynski/PbD-Maturity-Tool](https://github.com/MichelMuszynski/PbD-Maturity-Tool)\
 For more information visit: [privacymaturity.org](http://www.privacymaturity.org)
 
 ---
